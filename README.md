@@ -1,4 +1,4 @@
-# :rainbow: 开源项目收集仓库
+# :rainbow: Awesome Open Source Project Collections
 
 [![GitHub](https://badgen.net/badge/icon/chinaitorg?icon=github&label&color=green)](https://github.com/chinaitorg)
 [![license](https://badgen.net/github/license/chinaitorg/awesome-projects?color=green)](https://github.com/chinaitorg/awesome-projects/blob/main/LICENSE)
